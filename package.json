@@ -1,0 +1,16 @@
+{
+  "name": "console-log-color",
+  "version": "0.0.5",
+  "email": "rahul@dhawani.in",
+  "author": "Rahul Dhawani",
+  "main": "./console-log-color.js",
+  "description": "Colorful console logs",
+  "keywords": [
+    "color",
+    "console",
+    "console logs",
+    "logs",
+    "debug"
+  ],
+  "license": "MIT"
+}
